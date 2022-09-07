@@ -1,0 +1,15 @@
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\bin\Debug\net6.0\PythagoreanTheoremPrac.exe
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\bin\Debug\net6.0\PythagoreanTheoremPrac.deps.json
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\bin\Debug\net6.0\PythagoreanTheoremPrac.runtimeconfig.json
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\bin\Debug\net6.0\PythagoreanTheoremPrac.dll
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\bin\Debug\net6.0\PythagoreanTheoremPrac.pdb
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\obj\Debug\net6.0\PythagoreanTheoremPrac.csproj.AssemblyReference.cache
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\obj\Debug\net6.0\PythagoreanTheoremPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\obj\Debug\net6.0\PythagoreanTheoremPrac.AssemblyInfoInputs.cache
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\obj\Debug\net6.0\PythagoreanTheoremPrac.AssemblyInfo.cs
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\obj\Debug\net6.0\PythagoreanTheoremPrac.csproj.CoreCompileInputs.cache
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\obj\Debug\net6.0\PythagoreanTheoremPrac.dll
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\obj\Debug\net6.0\refint\PythagoreanTheoremPrac.dll
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\obj\Debug\net6.0\PythagoreanTheoremPrac.pdb
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\obj\Debug\net6.0\PythagoreanTheoremPrac.genruntimeconfig.cache
+C:\Users\MoltenCore\source\repos\PythagoreanTheoremPrac\PythagoreanTheoremPrac\obj\Debug\net6.0\ref\PythagoreanTheoremPrac.dll

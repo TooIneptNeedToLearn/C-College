@@ -1,0 +1,15 @@
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\obj\Debug\net6.0\Problemtask.csproj.AssemblyReference.cache
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\obj\Debug\net6.0\Problemtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\obj\Debug\net6.0\Problemtask.AssemblyInfoInputs.cache
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\obj\Debug\net6.0\Problemtask.AssemblyInfo.cs
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\obj\Debug\net6.0\Problemtask.csproj.CoreCompileInputs.cache
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\bin\Debug\net6.0\Problemtask.exe
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\bin\Debug\net6.0\Problemtask.deps.json
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\bin\Debug\net6.0\Problemtask.runtimeconfig.json
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\bin\Debug\net6.0\Problemtask.dll
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\bin\Debug\net6.0\Problemtask.pdb
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\obj\Debug\net6.0\Problemtask.dll
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\obj\Debug\net6.0\refint\Problemtask.dll
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\obj\Debug\net6.0\Problemtask.pdb
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\obj\Debug\net6.0\Problemtask.genruntimeconfig.cache
+C:\Users\MoltenCore\source\repos\Problemtask\Problemtask\obj\Debug\net6.0\ref\Problemtask.dll

@@ -1,0 +1,82 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml.Schema;
+
+namespace TRYCODE
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int C1, C2, Comp1, Comp2, total1, total2, checker1, checker2;
+            int Cash_in, Bet;
+            int Cash_total;
+            bool gaming = true;
+            Console.Write("Enter your Cash Ammount: ");
+            Cash_in = Convert.ToInt32(Console.ReadLine());
+
+            Cash_total = 0 + Cash_in;
+
+            while (gaming)
+            {
+                Random draw = new Random();
+                C1 = draw.Next(1, 10);
+                C2 = draw.Next(1, 10);
+                Comp1 = draw.Next(1, 10);
+                Comp2 = draw.Next(1, 10);
+                total1 = C1 + C2;
+                total2 = Comp1 + Comp2;
+                checker1 = total1 % 10;
+                checker2 = total2 % 10;
+
+                Console.Write("How much are you going to bet?: ");
+                Bet = Convert.ToInt32(Console.ReadLine());
+
+                if (Bet > Cash_total)
+                {
+                    Console.WriteLine("Invalid amount, try again!");
+                }
+                else if (Bet < Cash_total)
+                {
+                    
+                    Console.WriteLine($"Players Cards is: {C1},{C2}");
+                    Console.WriteLine($"Computers Cards is: {Comp1},{Comp2}");
+                    Console.WriteLine($"Players Card Total: {total1},which leads to {checker1}");
+                    Console.WriteLine($"Compters Card Total: {total2},which leads to {checker2}");
+                    if (checker1 > checker2)
+                    {
+                        Console.WriteLine("Player Wins");
+                        Cash_total += Bet;
+                        Console.WriteLine($"Your cash is: {Cash_total}");
+                    }
+                    else if (checker2 > checker1)
+                    {
+                        Console.WriteLine("Computer Wins");
+                        Cash_total -= Bet;
+                        Console.WriteLine($"Your cash is: {Cash_total}");
+                    }
+                    Console.Write("Rematch?(Y/N): ");
+                    string try_again = Console.ReadLine();
+                    try_again = try_again.ToUpper();
+                    while (try_again != "Y" && try_again != "N")
+                    {
+                        Console.WriteLine("Input Y or N!");
+                        try_again = Console.ReadLine();
+                    }
+                    if (try_again == "Y")
+                    {
+                        gaming = true;
+                    }
+                    else if (try_again == "N")
+                    {
+                        gaming = false;
+                    }
+                }
+            }
+
+        }
+    }
+}
